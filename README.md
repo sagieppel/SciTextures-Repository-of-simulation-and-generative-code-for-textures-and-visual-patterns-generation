@@ -3,4 +3,9 @@ The SCITextures dataset is a large-scale collection of images featuring visual p
 ## [Documentation](https://arxiv.org/pdf/2511.01817)
 ## Sources: [Zenodo](https://zenodo.org/records/17485502), [Hugging Face](https://huggingface.co/datasets/FlyingFrog/SciTextures)
 
+![](/Sample5.jpg)
+![](/Sample2.jpg)
+![](/Sample3.jpg)
+
+
 
