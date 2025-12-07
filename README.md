@@ -6,6 +6,7 @@ The SCITextures dataset is a large-scale collection of images featuring visual p
 ## Sources: [Zenodo](https://zenodo.org/records/17485502), [Hugging Face](https://huggingface.co/datasets/FlyingFrog/SciTextures)
 
 #Download:
+
 [Full dataset (jpg format) 1270 scripts and 109,000 images (12gb)](https://zenodo.org/records/17485502/files/Scitexture_Full_110K_images_jpg_format.zip?download=1)
 
 [All script and single sample image image for each model (1270 scripts and images 174mb)](https://zenodo.org/records/17485502/files/Scitextures_Single_Sample_From_Each_Model_1270_Images_jpg.zip?download=1)
