@@ -36,7 +36,7 @@ num_samples: number of different images to generate
 # Evaluation scripts
 Scripts for the evaluation tasks described in the [paper](https://arxiv.org/pdf/2511.01817) are available at: 
 
-[Im2Im][https://github.com/sagieppel?tab=repositories](https://github.com/sagieppel/Im2Im-Test-VLM-ability-to-identify-images-formed-by-the-same-process), 
+[Im2Im](https://github.com/sagieppel/Im2Im-Test-VLM-ability-to-identify-images-formed-by-the-same-process), 
 [Im2Code](https://github.com/sagieppel/Im2Code-Test-LVLMS-ability-to-associate-images-with-the-code-and-models-that-generate-them), 
 [IM2SIM](https://github.com/sagieppel/Im2Sim-From-image-to-coding-the-simulation-of-the-physical-system-in-the-image-using-VLM)
 
